@@ -15,4 +15,4 @@ Disse? Não!
 Lentamente, como quem é absorvido pela falta de luz, escorregou como um relógio de Dali entre a multidão ácrata e continuou até dissolver-se completamente num ponto.
 Codificado, mensurável, agora estava livre para continuar imune aos apelos de um sentimento humano. “Demasiadamente humano”.</p>
 
-<script type="text/javascript" src="https://form.jotformz.com/jsform/71205393189661"></script>
+ <a href="javascript:void( window.open( 'https://form.jotformz.com/71205393189661', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> Contato </a>

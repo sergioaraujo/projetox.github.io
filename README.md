@@ -1,4 +1,5 @@
 <a href="" target="_blank"><img src="http://i65.tinypic.com/2cqbhaq.jpg" border="0" alt="Image and video hosting by TinyPic"></a> 
+<a href="" target="_blank"><img src="http://i65.tinypic.com/fuqno6.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 ## Sérgio Araújo
 Pedagogo, professor da Rede Pública Municipal de Salinas da Margarida, poeta e articulista. Casado com Regina, pai de Filipe e Taynã e avô de José. Natural de Ibirataia-Ba e há mais de 20 anos salinense de coração.
 <h2></h2>

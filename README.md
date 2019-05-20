@@ -1,18 +1,49 @@
-<a href="" target="_blank"><img src="http://i63.tinypic.com/1zlqagk.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-## Sérgio Araújo
-Pedagogo, professor da Rede Pública Municipal de Salinas da Margarida, poeta e articulista. Casado com Regina, pai de Filipe e Taynã e avô de José e Melissa. Natural de Ibirataia-Ba e há mais de 20 anos salinense de coração.
-<h2></h2>
-<a href="https://www.facebook.com/sergioaraujofb" target="_blank"><img src="http://i63.tinypic.com/20js9wy.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://twitter.com/sergioaraujo" target="_blank"><img src="http://i68.tinypic.com/v7cqdx.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://plus.google.com/u/0/+S%C3%A9rgioAra%C3%BAjosalinas" target="_blank"><img src="http://i63.tinypic.com/n3azoy.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://www.linkedin.com/in/sergioaraujo709/" target="_blank"><img src="http://i64.tinypic.com/sy332v.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://palavras.digasalinas.com" target="_blank"><img src="http://i68.tinypic.com/kcm3ci.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://t.co/JDtIZSfA8D" target="_blank"><img src="http://i67.tinypic.com/2s1nmyr.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://keybase.io/verbis" target="_blank"><img src="http://i67.tinypic.com/2ag6835.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://hack.chat/?sergio" target="_blank"><img src="http://i64.tinypic.com/rj0dhf.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://educacaoecultura.digasalinas.com/" target="_blank"><img src="http://i67.tinypic.com/2vmwtnq.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://www.youtube.com/user/sergioaraujo1000/videos" target="_blank"><img src="http://i64.tinypic.com/2929pmp.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://scholar.google.com.br/citations?user=xD93mEEAAAAJ&hl=pt-BR" target="_blank"><img src="http://i63.tinypic.com/28s11u.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="https://www.flickr.com/photos/sergioaraujo709" target="_blank"><img src="http://i68.tinypic.com/ev6na1.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="http://bodegavirtual.tumblr.com/" target="_blank"><img src="http://i63.tinypic.com/14jvuyg.jpg" border="0" alt="Image and video hosting by TinyPic"></a> <a href="mailto:sergioaraujo@vivaldi.net" target="_blank"><img src="http://i65.tinypic.com/vzvqyh.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-<h2></h2>
-<p align="justify">Parou em plena avenida. À primeira vista, apenas podia distinguir três lumes que incidiam brancos. Mesmo que recortadas, essas pequenas e nervosas formas, fundiam-se num corpo ao fundo que se dissolvia, branqueado, branqueagudo sob um céu enegrecido em contraste com a luminosidade: como uma corexplosão no abismo, uma imagem ritmada, quase espasmocênica.
-Pensou que podia voltar para casa e escrever sobre aquele gesto novo que nenhum ser humano ainda havia experimentado e que em seu íntimo, sabia que existia. Precisava apenas explorar as dobradiças.
-Sim! Todo corpo é único e preciso, mas diverso no “eu” genérico que se submete a determinados signos universais.
-Ah! Um gesto cerebral!
-Como pode ser? - Pensou enquanto gesticulava ligeiramente. Codificar, Eis a solução!
-Todo esse gestual concreto pode libertar, – pensou.
-Não! Não é possível fazer-se claro aos cidadãos agônicos que em vão perambulam, reticentes em suas retículas ácidas, diagramadas, cada um ocupando o seu espaço programado.
-Tentou ouvir sua própria voz, mais uma vez, para saber se ainda podia falar. Olhou em volta e prosseguiu vasculhando rostos, perfis, silhuetas, diodos e dióxidos.
-Mas, Lentamente, como quem é absorvido pela falta de luz, escorregou como um relógio de Dali entre a multidão ácrata e continuou até dissolver-se completamente num ponto.
-Codificado, mensurável, agora estava livre para continuar imune aos apelos de um sentimento humano. “Demasiadamente humano”.</p>
-<h2></h2>
- <a href="https://form.jotformz.com/71205393189661" target="_blank"><img src="http://i68.tinypic.com/23mwi8.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Bootstrap 4, from LayoutIt!</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="LayoutIt!">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+  </head>
+  <body>
+
+    <div class="container-fluid">
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-8">
+			<h3 class="text-left text-danger">
+				h3. Lorem ipsum dolor sit amet.
+			</h3>
+			<p>
+				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
+			</p>
+			<p>
+				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
+			</p>
+			<p>
+				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
+			</p> 
+			<address>
+				 <strong>Twitter, Inc.</strong><br> 795 Folsom Ave, Suite 600<br> San Francisco, CA 94107<br> <abbr title="Phone">P:</abbr> (123) 456-7890
+			</address>
+		</div>
+		<div class="col-md-2">
+		</div>
+	</div>
+</div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>

@@ -3,15 +3,10 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Portfolio</title>
-  <title>Portfolio - Gabriella Simon</title>
-<meta charset=”utf-8">
- <meta name=”viewport” content=”width=device-width, initial-scale=1">
-<script src="https://use.fontawesome.com/31e4b5bbb7.js"></script>
-<link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
-
+  <title>Portfolio Bootstrap</title>
   
-  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+  
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/cosmo/bootstrap.min.css'>
 
       <link rel="stylesheet" href="css/style.css">
 
@@ -20,167 +15,196 @@
 
 <body>
 
-  <!--Navigation bar section starts here-->
-
-<nav class="navbar navbar-default navbar-fixed-top topnav navbar-custom" role="navigation">
-     <div class="container-fluid">
-       <div class="navbar-header">
-           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Gabriella Simon</a>
-      </div>
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-       </div>
-     </div>
-  </nav>
-
-<!--Navigation bar section ends-->
-
-<!--Home section starts-->
-<section id="home">
-  <div class="intro-header">
-    <div class="container-fluid intro_header">
-      <div class="row">
-        <div class="col-md-12">
-          <h1>Welcome to My Portfolio Page</h1>
-          <hr />
-          <!--Social media buttons -->
-          <ul class="social-media-buttons text-center">
-            <li>
-              <a class="btn btn-default btn-lg" href="https://www.linkedin.com/in/gabriella-simon-25402a116" target="_blank" id="linkedin"> <i class="fa fa-linkedin-square"></i> Linkedin</a>
-            </li>
-            <!--<li>
-<a class="btn btn-default" href="#"> <i class="fa fa-fire"></i> freeCodeCamp</a>
-            </li>-->
-            <li>
-              <a class="btn btn-default btn-lg" href="https://github.com/gsim2345" target="_blank" id="github"> <i class="fa fa-github"></i>   Github  </a>
-            </li>
-          </ul>
-          <!--Social media buttons end-->
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!--Home section ends here-->
-
-<!--About section starts-->
-<section id="about">
+  <body> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  
+<!--Navbar--->
+ <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-6">
-        <div class="about-description">
-          <h3>About me:</h3>
-          <p>Hi, I'm Gabriella, living in Coppenhagen, Denmark.  I'm new to the world of web development, and currently focusing on HTML5, CSS3 and Javascript. I'm taking courses on freeCodeCamp to earn a certificate in front-end development. The site will be updated with completed projects as I go on. 
-          </p>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <img src="https://gsim2345.github.io/photo-1449484956348-51e3a55fd0ab%20copy.jpg" class="img-responsive img-circle center-block" alt="sofa-and-computer"/>
-      </div>
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Steven Starnes</a>
     </div>
-  </div>
-</section>
-<!--About section ends-->
-<!--Portfolio section starts-->
-<section id="portfolio">
-  <div class="container-fluid">
-    <!--Porfolio header-->
-    <div class="row">
-      <div class="col-md-12">
-        <h3 class="portfolio-header">My Portfolio:</h3>
-      </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#About-me">About Me</a></li>
+        <li><a href="#Portfolio">Portfolio</a></li>
+        <li><a href="#Contact">Contact</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+          
+  <!--End Navbar--->
+  
+  <!--Home--->
+  
+  <div class ="scrollspy intro-header" id = "Home">
+    <div class="jumbotron centerize">
+      <h1  style="color: black">Steven's Online Portfolio</h1>
+      <p style="color: black; font-weight:400">Electrical and Computer Engineer</p>
+      <a href="https://github.com/Steven-Starnes" class="btn btn-default" target="_blank">GitHub</a>
+        <a href="https://www.freecodecamp.com/steven-starnes" class="btn btn-default" target="_blank">FreeCodeCamp</a>
+        <a href="https://www.linkedin.com/profile/view?id=AAIAABw27PoBD9kWGCN6V2aMzZNOyxYFsjTzl8o&trk=nav_responsive_tab_profile" class="btn btn-default" target="_blank" role="button">LinkedIn</a>
     </div>
-    <!--Porfolio header ends-->
-    <!--Portfolio content starts-->
-    <div class="row">
-      <div class="col-md-4">
-        <div class="portfolio-piece">
-          <h4 class="text-center"><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-          <h4 class="text-center">Project #1</h4>
-          <h5 class="text-center">Project description</h5>
-          <img src="https://gsim2345.github.io/placeholder-camera-green.png" class="img-responsive img-thumbnail" alt="Placeholder"/>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="portfolio-piece">
-          <h4 class="text-center"><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-          <h4 class="text-center">Project #2</h4>
-          <h5 class="text-center">Project description</h5>
-          <img src="https://gsim2345.github.io/placeholder-camera-green.png" class="img-responsive img-thumbnail" alt="Placeholder"/>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="portfolio-piece">
-          <h4 class="text-center"><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-          <h4 class="text-center">Project #3</h4>
-          <h5 class="text-center">Project description</h5>
-          <img src="https://gsim2345.github.io/placeholder-camera-green.png" class="img-responsive img-thumbnail" alt="Placeholder"/>
-        </div>
-      </div>
     </div>
+<!--End Home--->
+
+<!--About Me--->
+  <div class="about-me"   id ="About-me">
+        <h2 class ="scrollspy">About Me</h2>
+        <hr>
         <div class="row">
-      <div class="col-md-4">
-        <div class="portfolio-piece">
-          <h4 class="text-center"><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-          <h4 class="text-center">Project #4</h4>
-          <h5 class="text-center">Project description</h5>
-          <img src="https://gsim2345.github.io/placeholder-camera-green.png" class="img-responsive img-thumbnail" alt="Placeholder"/>
+          <p style="text-indent: 2em; font-size: 175%;">  Hello, my name is Steven Starnes and this is a website made by me! I made this website in order to learn more about the web and how to create responsive websites and web apps. I'm currently enrolled in college obtaining a degree in Electrical Engineering with a concentration in Computer Engineering. I will be using this website to host a portfolio of webapps and other projects that I plan to make in the future. Feel free to contact me and check out my code on Github. Have a great day!</p>
+        </div>
+    </hr>
+  </div>
+<!--End About Me--->
+
+<!--Portfolio--->
+  <div class="portfolio"  id ="Portfolio">
+    <h2 class="scrollspy">Portfolio</h2>
+    
+    <h3>Python</h3>
+    <hr></hr>
+      <div class="row">
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>Python</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
+        </div>
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>Python</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
+        </div>
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>Python</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="portfolio-piece">
-          <h4 class="text-center"><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-          <h4 class="text-center">Project #5</h4>
-          <h5 class="text-center">Project description</h5>
-          <img src="https://gsim2345.github.io/placeholder-camera-green.png" class="img-responsive img-thumbnail" alt="Placeholder"/>
+
+    <h3>C++</h3>
+    <hr></hr>
+    <div class="row">
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>C++</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
+        </div>
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>C++</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
+        </div>
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>C++</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="portfolio-piece">
-          <h4 class="text-center"><span class="glyphicon glyphicon-pushpin" aria-hidden="true"></span></h4>
-          <h4 class="text-center">Project #6</h4>
-          <h5 class="text-center">Project description</h5>
-          <img src="https://gsim2345.github.io/placeholder-camera-green.png" class="img-responsive img-thumbnail" alt="Placeholder"/>
+
+    <h3>Web Projects</h3>
+    <hr></hr>
+    <div class="row">
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>Web Project</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
+        </div>
+        <div class=" col-xs--12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>Web Project</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+          <div class="thumbnail">
+            <img src="https://images.unsplash.com/photo-1414115880398-afebc3d95efc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=a1f2a002eb6ba443c99aacc8f37ea57c" alt="...">
+            <div class="caption">
+              <h3>Web Project</h3>
+              <p>Coming Soon</p>
+              <p><a href="#" class="btn btn-primary" role="button">GitHub</a>
+            </div>
+          </div>
         </div>
       </div>
+    
+  </div>
+<!--End Portfolio--->
+
+<!---Contact--->
+<div class="contact">
+  <div class="jumbotron">
+    <h1 class="scrollspy" id="Contact">Contact Me via Social Media</h1></div>
+  <div class="row">
+    <div class="col-xs-6">
+      <a href="https://github.com/Steven-Starnes" target="_blank"><i class="fa fa-github fa-5x"></i></a>
     </div>
-  <!--Portfolio content ends-->   
+    <div class="col-xs-6">
+      <a href="https://www.linkedin.com/profile/view?id=AAIAABw27PoBD9kWGCN6V2aMzZNOyxYFsjTzl8o&trk=nav_responsive_tab_profile" target="_blank"><i class="fa fa-linkedin fa-5x"></i></a>
+    </div>
   </div>
-</section>
-<!--Portfolio section ends -->
-
-
-<!--Contact section starts-->
-<section id="contact">
-  <div class="container-fluid">
-    <!--<h3>Contact:</h3>-->
-    <!--<p class="text-center">You can contact me at <span><a href="mailto:gb@gabriellasimon.me" id="mail">gb@gabriellasimon.me</a></span>, or find me at the social media links below:</p>-->
-    <p class="text-center"><i class="fa fa-envelope" aria-hidden="true"></i>  <a href="mailto:gb@gabriellasimon.me" id="mail">gb@gabriellasimon.me</a></p>
-    <ul class="social-media-buttons text-center">
-        <li><a href="https://www.linkedin.com/in/gabriella-simon-25402a116" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
-        <!--<li><a class="btn btn-default btn-sm" href="#"> <i class="fa fa-fire"></i> freeCodeCamp</a></li>-->
-        <li><a href="https://github.com/gsim2345" target="_blank"> <i class="fa fa-github"></i></a></li>
-    </ul>
-  </div>
-  <footer>Site developed by Gabriella Simon, 2016. Images are courtesy of <a href="https://unsplash.com/" target="_blank">unsplash.com</a></footer>
-</section>
-<!--Contact section ends-->
-  <script src='https://use.fontawesome.com/31e4b5bbb7.js'></script>
-<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+</div>
+</body>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
 
   
+
+    <script  src="js/index.js"></script>
+
+
+
 
 </body>
 
